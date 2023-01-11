@@ -1,5 +1,5 @@
 ## Olá, me chamo Déborah Novaes 
-- 🌱 Estudante de Phyton, JavaScript, Análise de Dados, HTML e CSS em tempo integral...
+- 🌱 Estudante de JavaScript, Angular, TypeScript, HTML e CSS, Análise de Dados em tempo integral...
 - 📫 How to reach me: deborahnvaes@outlook.com
 - 😄 Pronouns: ela/Dela
 
