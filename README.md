@@ -1,6 +1,6 @@
 ## Olá, me chamo Déborah Novaes 
-- 🌱 JavaScript, TypeScript, Angular, HTML e CSS, Análise de Dados em tempo integral...
-- 📫 How to reach me: deborahnvaes@outlook.com
+- 🌱 JavaScript, TypeScript, Angular, ReactJs HTML e CSS
+- 📫 How to reach me: deborahnvaes@gmail.com
 - 😄 Pronouns: ela/Dela
 
 <div align="center">
